@@ -1,7 +1,7 @@
 # Rainmeter
 Rainmeter Audio Visualizer; widgets (THIS WIDGET WILL ONLY BE VISIBLE IF SOUND IS PLAYING)
 
-This skin was created by Sceleri & NighthawkSLO originally and was edited by myself, I resized it to be smaller, changed the colors to represent sombra's color theme, increased the sensitivity to sound response, left-click now opens the overwatch launcher (given your OW is installed in the C drive by default).
+This skin was created by reisir originally and was edited by myself, I resized it to be smaller, changed the colors to represent sombra's color theme, increased the sensitivity to sound response, left-click now opens the overwatch launcher (given your OW is installed in the C drive by default).
 
 To change the sizing of the widget under "[Shape]" change the numbers in shapes 1-4 for the rotating lines where it says "(27.5*#SCALE#)", I downscaled from the original by 75% meaning I divided the previous number by 4. For the inner circle with the sombra logo to change it's size go to the [overlaySkull] section and on the line where "Shape19" is defined change the multiplier numbers next to each #SCALE#, should look like "SCALE .35*#SCALE#,.35*#SCALE#" and simply change the .35 to whatever you prefer. 
 
